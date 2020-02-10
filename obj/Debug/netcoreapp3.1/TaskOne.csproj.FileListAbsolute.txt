@@ -1,0 +1,11 @@
+C:\Users\DCL\Documents\VS Code\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.exe
+C:\Users\DCL\Documents\VS Code\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.deps.json
+C:\Users\DCL\Documents\VS Code\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.runtimeconfig.json
+C:\Users\DCL\Documents\VS Code\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.runtimeconfig.dev.json
+C:\Users\DCL\Documents\VS Code\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.dll
+C:\Users\DCL\Documents\VS Code\TaskOne\bin\Debug\netcoreapp3.1\TaskOne.pdb
+C:\Users\DCL\Documents\VS Code\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.csprojAssemblyReference.cache
+C:\Users\DCL\Documents\VS Code\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.AssemblyInfoInputs.cache
+C:\Users\DCL\Documents\VS Code\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.AssemblyInfo.cs
+C:\Users\DCL\Documents\VS Code\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.dll
+C:\Users\DCL\Documents\VS Code\TaskOne\obj\Debug\netcoreapp3.1\TaskOne.pdb
